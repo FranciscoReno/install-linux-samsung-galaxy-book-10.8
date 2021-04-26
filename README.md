@@ -65,3 +65,15 @@ You will notice that when you disconnect the cover (with the trackpad and keyboa
 
 
 I use like this and works fine ... just skip google chrome, it's very laggy. 
+
+
+
+## License
+
+I claim no ownership nor authorship of anything within this repository other than this README.md. Any significant licenses may be found within the preferred directory.
+
+Most of this text comes from Madko/install-linux-samsung-galaxy-book-10.8
+
+The instructions and source used to get working atheros wifi on linux kernel version 4.17+ is entirely based upon @jeremyb31's solution given on ubuntuforumns, and provided on @jeremyb31's github repository, respectively.
+
+Thanks!
