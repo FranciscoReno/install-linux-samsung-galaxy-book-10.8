@@ -66,7 +66,8 @@ You will notice that when you disconnect the cover (with the trackpad and keyboa
 
 I use like this and works fine ... just skip google chrome, it's very laggy. 
 
-
+* Sound
+In theory this thread solves the sound in manjaro --> https://forum.manjaro.org/t/howto-set-up-the-audio-card-in-samsung-galaxy-book/37090
 
 ## License
 
