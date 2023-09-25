@@ -55,6 +55,10 @@ Boot the usual Ubuntu live session :
 * Screen is in portrait mode :
   * open a terminal
   * type "xrandr -o left"
+ 
+* Touch is rotated, to fix it :
+  * open a terminal
+  * "xinput set-prop 17 "Coordinate Transformation Matrix" 0 1 0 -1 0 1 0 0 1"
 
 WiFi will not work out of the box... so you need an adapter or share internet via bluetooth with a cellphone.
 
